@@ -65,6 +65,10 @@ setTimeout(function(){
     weather.fetchAutoWeather()
 }, 1000);
 
+setTimeout(function(){
+    console.log("My best try to make a great web app , I hope this web app helped you !!")
+})
+
 
 
 // link:https://api.openweathermap.org/data/2.5/weather?q=Bareilly&units=metric&appid=5abc8d09ff5581b7e1cf8c07b0bab03c
